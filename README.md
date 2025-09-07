@@ -147,7 +147,7 @@ To deploy on **Streamlit Cloud**:
 
 ---
 
-## Contributing & License
+## Contributing 
 
 Feedback, issues, and pull requests are welcome.
 Please ensure modules remain modular, dependency-safe, and the UI remains responsive.
