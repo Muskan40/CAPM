@@ -7,5 +7,5 @@ numpy
 matplotlib
 yfinance
 pandas_ta
-sklearn
+scikit-learn
 statsmodels
