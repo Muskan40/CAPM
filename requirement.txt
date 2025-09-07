@@ -6,7 +6,6 @@ seaborn
 numpy
 matplotlib
 yfinance
-datetime
 pandas_ta
 sklearn
 statsmodels
