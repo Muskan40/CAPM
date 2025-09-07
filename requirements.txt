@@ -10,4 +10,5 @@ pandas_ta
 scikit-learn
 statsmodels
 pandas-datareader
+setuptools
 
