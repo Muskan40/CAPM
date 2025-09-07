@@ -67,7 +67,7 @@ CAPM/
    ```bash
    git clone https://github.com/Muskan40/CAPM.git
    cd CAPM
-````
+   ```
 
 2. Install dependencies:
 
